@@ -1,0 +1,55 @@
+body{
+    font-family: "Stylish", serif;
+    font-weight: bold;
+    font-size: medium;
+    background-color: rgb(255, 221, 148);
+}
+
+
+header{
+    background-color:rgba(233, 230, 220, 0.7)  ;
+}
+
+.fonte {
+    font-family: "Indie Flower", cursive;
+}
+
+#sobre,#opn{
+    background-color:rgb(250, 223, 164) ;
+}
+
+.borda{
+    border-bottom: 2px solid rgb(249, 190, 207) ;
+    margin-top: 80px;
+}
+
+.nav-link{
+    color: #303952;
+}
+
+.nav .nav-link.active,.btn  {
+    background-color: rgb(196, 69, 105);
+    color: #000;
+}
+
+.btn:hover {
+    background-color: pink;
+}
+
+.nav-link:hover{
+    color: black;
+}
+
+.cor{
+    /*color: rgb(207, 106, 135);*/
+    color: rgb(196, 69, 105) ;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a{
+    text-decoration: none;
+}
